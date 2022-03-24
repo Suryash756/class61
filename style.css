@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url("https://w0.peakpx.com/wallpaper/391/677/HD-wallpaper-olympic-games-red-greece-white-blue.jpg");
+    background-size:cover;
+}
+
+canvas{
+    border:solid;
+    border-style:ridge;
+    background-color:white;
+    border-color:black;
+}
+
+h1{
+    font-size:50px;
+    text-decoration:underline;
+    color:brown;
+}
+
+input{
+    width:200px;
+    border:solid;
+    height:30px;
+}
+button{
+    background-color:red;
+    height:30px;
+    font-size:20px;
+
+    border:solid;
+    font-weight:bold;
+}
+
+section{
+    margin:20px;
+}
